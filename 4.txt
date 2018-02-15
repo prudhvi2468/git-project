@@ -1,5 +1,4 @@
 hi new
-dfhyjhfj
-fjh
+added for jenkins
 
 start 4.txt 
